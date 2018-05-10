@@ -1,0 +1,63 @@
+sciencealert.com
+
+The Human Brain Can Create Structures in Up to 11 Dimensions
+"We found a world that we had never imagined." 
+
+SIGNE DEAN 21 APR 2018
+Last year, neuroscientists used a classic branch of maths in a totally new way to peer into the structure of our brains.
+
+What they discovered is that the brain is full of multi-dimensional geometrical structures operating in as many as 11 dimensions.
+
+We're used to thinking of the world from a 3-D perspective, so this may sound a bit tricky, but the results of this study could be the next major step in understanding the fabric of the human brain - the most complex structure we know of.
+
+This brain model was produced by a team of researchers from the Blue Brain Project, a Swiss research initiative devoted to building a supercomputer-powered reconstruction of the human brain.
+
+The team used algebraic topology, a branch of mathematics used to describe the properties of objects and spaces regardless of how they change shape.
+
+They found that groups of neurons connect into 'cliques', and that the number of neurons in a clique would lead to its size as a high-dimensional geometric object (a mathematical dimensional concept, not a space-time one).
+
+"We found a world that we had never imagined," said lead researcher, neuroscientist Henry Markram from the EPFL institute in Switzerland.
+
+"There are tens of millions of these objects even in a small speck of the brain, up through seven dimensions. In some networks, we even found structures with up to 11 dimensions."
+
+Just to be clear - this isn't how you'd think of spatial dimensions (our Universe has three spatial dimensions plus one time dimension), instead it refers to how the researchers have looked at the neuron cliques to determine how connected they are. 
+
+"Networks are often analysed in terms of groups of nodes that are all-to-all connected, known as cliques. The number of neurons in a clique determines its size, or more formally, its dimension," the researchers explained in the paper. 
+
+Human brains are estimated to have a staggering 86 billion neurons, with multiple connections from each cell webbing in every possible direction, forming the vast cellular network that somehow makes us capable of thought and consciousness.
+
+With such a huge number of connections to work with, it's no wonder we still don't have a thorough understanding of how the brain's neural network operates.
+
+But the mathematical framework built by the team takes us one step closer to one day having a digital brain model.
+
+To perform the mathematical tests, the team used a detailed model of the neocortex the Blue Brain Project team published back in 2015.
+
+The neocortex is thought to be the most recently evolved part of our brains, and the one involved in some of our higher-order functions like cognition and sensory perception.
+
+After developing their mathematical framework and testing it on some virtual stimuli, the team also confirmed their results on real brain tissue in rats.
+
+According to the researchers, algebraic topology provides mathematical tools for discerning details of the neural network both in a close-up view at the level of individual neurons, and a grander scale of the brain structure as a whole.
+
+By connecting these two levels, the researchers could discern high-dimensional geometric structures in the brain, formed by collections of tightly connected neurons (cliques) and the empty spaces (cavities) between them.
+
+"We found a remarkably high number and variety of high-dimensional directed cliques and cavities, which had not been seen before in neural networks, either biological or artificial," the team wrote in the study.
+
+"Algebraic topology is like a telescope and microscope at the same time," said one of the team, mathematician Kathryn Hess from EPFL.
+
+"It can zoom into networks to find hidden structures, the trees in the forest, and see the empty spaces, the clearings, all at the same time."
+
+Those clearings or cavities seem to be critically important for brain function. When researchers gave their virtual brain tissue a stimulus, they saw that neurons were reacting to it in a highly organised manner.
+
+"It is as if the brain reacts to a stimulus by building [and] then razing a tower of multi-dimensional blocks, starting with rods (1D), then planks (2D), then cubes (3D), and then more complex geometries with 4D, 5D, etc," said one of the team, mathematician Ran Levi from Aberdeen University in Scotland.
+
+"The progression of activity through the brain resembles a multi-dimensional sandcastle that materialises out of the sand and then disintegrates."
+
+These findings provide a tantalising new picture of how the brain processes information, but the researchers point out that it's not yet clear what makes the cliques and cavities form in their highly specific ways.
+
+And more work will be needed to determine how the complexity of these multi-dimensional geometric shapes formed by our neurons correlates with the complexity of various cognitive tasks.
+
+But this is definitely not the last we'll be hearing of insights that algebraic topology can give us on this most mysterious of human organs - the brain.
+
+The study was published in Frontiers of Computational Neuroscience.
+
+A version of this story was first published in June 2017.

@@ -1,4 +1,11 @@
  sciencealert.com
 
 The Human Brain Can Create Structures in Up to 11 Dimensions
-"We found a world that we had never imagined." What they discovered is that the brain is full of multi-dimensional geometrical structures operating in as many as 11 dimensions. In some networks, we even found structures with up to 11 dimensions." But the mathematical framework built by the team takes us one step closer to one day having a digital brain model. To perform the mathematical tests, the team used a detailed model of the neocortex the Blue Brain Project team published back in 2015. By connecting these two levels, the researchers could discern high-dimensional geometric structures in the brain, formed by collections of tightly connected neurons (cliques) and the empty spaces (cavities) between them. Those clearings or cavities seem to be critically important for brain function. When researchers gave their virtual brain tissue a stimulus, they saw that neurons were reacting to it in a highly organised manner.
+"We found a world that we had never imagined." What they discovered is that the brain is full of multi-dimensional 
+geometrical structures operating in as many as 11 dimensions. In some networks, we even found structures with up to 
+11 dimensions." But the mathematical framework built by the team takes us one step closer to one day having a digital
+brain model. To perform the mathematical tests, the team used a detailed model of the neocortex the Blue Brain Project 
+team published back in 2015. By connecting these two levels, the researchers could discern high-dimensional geometric 
+structures in the brain, formed by collections of tightly connected neurons (cliques) and the empty spaces (cavities)
+between them. Those clearings or cavities seem to be critically important for brain function. When researchers gave their 
+virtual brain tissue a stimulus, they saw that neurons were reacting to it in a highly organised manner.
